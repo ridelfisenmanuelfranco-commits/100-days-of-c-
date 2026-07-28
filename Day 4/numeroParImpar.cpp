@@ -1,3 +1,4 @@
+/*Raliza un programa que lea un valor y determine si se trata de un numero par o impar*/
 #include <iostream>
 int main() {
 	int numero;
